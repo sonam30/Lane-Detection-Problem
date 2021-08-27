@@ -6,4 +6,3 @@ The program detects the driving lane in the given video sample.
 The output of the result is as follows:
 
 ![Video of Lane detected](https://github.com/sonam30/Lane-Detection-Using-OpenCV/blob/main/Detected%20Lane.gif)
-
